@@ -1,0 +1,135 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Melodiedoumy.github.io/Test-Tenkings/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Sutra of the Ten Kings of Hell",
+  "metadata" : [ {
+    "label" : "Link",
+    "value" : "<a href=“https://google.com”>Exhibit</a>"
+  } ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://c87d7062-b43d-428d-b487-8a49838af77d",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9ab17810-06f7-49bc-a57d-2f7c6aed09bd",
+      "@type" : "sc:Canvas",
+      "label" : "Panel 1",
+      "height" : 1340,
+      "width" : 1748,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f675d907-8bf4-42bc-86b5-dc6b8139853b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1340,
+          "width" : 1748
+        },
+        "on" : "http://9ab17810-06f7-49bc-a57d-2f7c6aed09bd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7fa194ce-a68c-4d7e-924b-44e80d83e174",
+      "@type" : "sc:Canvas",
+      "label" : "Panel 2",
+      "height" : 1175,
+      "width" : 1990,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2eec4081-be4a-44d8-8ae2-8e4dd3afc9ba",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://melodiedoumy.github.io/Test-Tenkings/images/native1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://melodiedoumy.github.io/Test-Tenkings/images/native1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1175,
+          "width" : 1990
+        },
+        "on" : "http://7fa194ce-a68c-4d7e-924b-44e80d83e174"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e699a636-5666-4425-9be0-2291cdb5f7e0",
+      "@type" : "sc:Canvas",
+      "label" : "Panel 3",
+      "height" : 1175,
+      "width" : 1863,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e5de5a67-75c0-45aa-be31-1d8e07207b51",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://melodiedoumy.github.io/Test-Tenkings/images/native3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://melodiedoumy.github.io/Test-Tenkings/images/native3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1175,
+          "width" : 1863
+        },
+        "on" : "http://e699a636-5666-4425-9be0-2291cdb5f7e0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f5fdc482-29e3-4ad0-b738-a38a9142d515",
+      "@type" : "sc:Canvas",
+      "label" : "Panel 4",
+      "height" : 1175,
+      "width" : 1863,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://03be261c-f53e-473a-8ae2-cb94e5020c8c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://melodiedoumy.github.io/Test-Tenkings/images/native3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://melodiedoumy.github.io/Test-Tenkings/images/native3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1175,
+          "width" : 1863
+        },
+        "on" : "http://f5fdc482-29e3-4ad0-b738-a38a9142d515"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "related" : {
+    "@id" : "https://google.com",
+    "label" : "Exhibit Presentation",
+    "format" : "Text/HTML"
+  }
+}
