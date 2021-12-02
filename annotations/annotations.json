@@ -1,0 +1,153 @@
+{
+  "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/manifest.json" : {
+    "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f1" : [ {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@type" : "oa:Annotation",
+      "motivation" : [ "oa:commenting" ],
+      "resource" : [ {
+        "@type" : "dctypes:Text",
+        "format" : "text/html",
+        "chars" : "<p>Bodhisattva Kshitigarbha or Dizang 地藏</p>"
+      } ],
+      "on" : [ {
+        "@type" : "oa:SpecificResource",
+        "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f1",
+        "selector" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@type" : "oa:FragmentSelector",
+            "value" : "xywh=1454,551,912,1322"
+          },
+          "item" : {
+            "@type" : "oa:SvgSelector",
+            "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1453.94969,551.21069h455.92453v0h455.92453v660.92138v660.92138h-455.92453h-455.92453v-660.92138z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b3d3ea36-c9f9-4808-8b30-64199f100c7c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"33.69811\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          }
+        },
+        "within" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/manifest.json",
+          "@type" : "sc:Manifest"
+        }
+      } ],
+      "@id" : "f98d3819-f564-49a2-af85-b56eaa97ffd9"
+    } ],
+    "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f2" : [ {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@type" : "oa:Annotation",
+      "motivation" : [ "oa:commenting" ],
+      "resource" : [ {
+        "@type" : "dctypes:Text",
+        "format" : "text/html",
+        "chars" : "<p>Rider on black horse with banner</p>"
+      } ],
+      "on" : [ {
+        "@type" : "oa:SpecificResource",
+        "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f2",
+        "selector" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@type" : "oa:FragmentSelector",
+            "value" : "xywh=2457,300,1226,1470"
+          },
+          "item" : {
+            "@type" : "oa:SvgSelector",
+            "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2457.5,299.50943h612.88679v0h612.88679v734.82075v734.82075h-612.88679h-612.88679v-734.82075z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_41f25d88-99ce-4ec9-9c59-9cd48c4f722d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          }
+        },
+        "within" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/manifest.json",
+          "@type" : "sc:Manifest"
+        }
+      } ],
+      "@id" : "bed2c2a8-833c-4ca4-9dca-ad5ea0b1a73c"
+    } ],
+    "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f3" : [ {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@type" : "oa:Annotation",
+      "motivation" : [ "oa:commenting" ],
+      "resource" : [ {
+        "@type" : "dctypes:Text",
+        "format" : "text/html",
+        "chars" : "<p>One of the Ten Kings of Hell, sat at a table for unrolling scrolls containing the good deeds of the dead</p>"
+      } ],
+      "on" : [ {
+        "@type" : "oa:SpecificResource",
+        "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f3",
+        "selector" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@type" : "oa:FragmentSelector",
+            "value" : "xywh=1197,220,1181,1244"
+          },
+          "item" : {
+            "@type" : "oa:SvgSelector",
+            "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1197.27358,219.69811h590.71698v0h590.71698v621.75472v621.75472h-590.71698h-590.71698v-621.75472z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_25dde18e-dbd1-4f51-a7f3-d937f6d4c49e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          }
+        },
+        "within" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/manifest.json",
+          "@type" : "sc:Manifest"
+        }
+      } ],
+      "@id" : "ead29a47-52b9-4935-9cf2-0f14833b4945"
+    } ],
+    "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f4" : [ {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@type" : "oa:Annotation",
+      "motivation" : [ "oa:commenting" ],
+      "resource" : [ {
+        "@type" : "dctypes:Text",
+        "format" : "text/html",
+        "chars" : "<p>Souls crossing the River of the Dead</p>"
+      } ],
+      "on" : [ {
+        "@type" : "oa:SpecificResource",
+        "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f4",
+        "selector" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@type" : "oa:FragmentSelector",
+            "value" : "xywh=2029,344,1244,902"
+          },
+          "item" : {
+            "@type" : "oa:SvgSelector",
+            "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2028.99057,343.84906h621.75472v0h621.75472v451.04717v451.04717h-621.75472h-621.75472v-451.04717z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8018117c-06da-4912-857e-c855b6887a6d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          }
+        },
+        "within" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/manifest.json",
+          "@type" : "sc:Manifest"
+        }
+      } ],
+      "@id" : "58ef2785-8046-46fc-b4fc-d2b56aee9bec"
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@type" : "oa:Annotation",
+      "motivation" : [ "oa:commenting" ],
+      "resource" : [ {
+        "@type" : "dctypes:Text",
+        "format" : "text/html",
+        "chars" : "<p>Dead person holding a Buddha figure as an offering to the Second King of Hell</p>"
+      } ],
+      "on" : [ {
+        "@type" : "oa:SpecificResource",
+        "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/canvas/f4",
+        "selector" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@type" : "oa:FragmentSelector",
+            "value" : "xywh=2129,454,356,272"
+          },
+          "item" : {
+            "@type" : "oa:SvgSelector",
+            "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2181.36991,494.1677c32.87239,-22.80487 79.24421,-39.78689 125.84075,-39.7666v0v0c46.59654,0.02029 87.18995,15.90669 125.84075,39.7666c38.65081,23.85991 53.67388,60.2178 52.12495,96.00507c-1.54894,35.78726 -19.66989,71.00389 -52.12495,96.00507c-32.45505,25.00117 -79.24421,39.78689 -125.84075,39.7666c-46.59654,-0.02029 -93.00047,-14.84658 -125.84075,-39.7666c-32.84028,-24.92002 -52.11692,-59.93376 -52.12495,-96.00507c-0.00803,-36.07131 19.25256,-73.20019 52.12495,-96.00507z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_09e72a7f-1562-4bee-8d39-d64f0cc8110f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          }
+        },
+        "within" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b83028340/manifest.json",
+          "@type" : "sc:Manifest"
+        }
+      } ],
+      "@id" : "e2f59e49-305c-4406-9e46-224b0e4849d3"
+    } ]
+  }
+}
