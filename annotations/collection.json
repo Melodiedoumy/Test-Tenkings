@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Melodiedoumy.github.io/Test-Tenkings/annotations/annotationstenkings.json", "https://Melodiedoumy.github.io/Test-Tenkings/annotations/annotationstenkings", "https://Melodiedoumy.github.io/Test-Tenkings/annotations/annotations.json", "https://Melodiedoumy.github.io/Test-Tenkings/annotations/tenkings" ],
+  "otherContent" : [ "https://Melodiedoumy.github.io/Test-Tenkings/annotations/annotationstenkings.json", "https://Melodiedoumy.github.io/Test-Tenkings/annotations/annotationstenkings", "https://Melodiedoumy.github.io/Test-Tenkings/annotations/annotations.json", "https://Melodiedoumy.github.io/Test-Tenkings/annotations/tenkings", "https://Melodiedoumy.github.io/Test-Tenkings/annotations/Test-TenKings" ],
   "@id" : "https://Melodiedoumy.github.io/Test-Tenkings/annotations/collection.json",
   "label" : "All annotations loaded in Melodiedoumy/Test-Tenkings project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
