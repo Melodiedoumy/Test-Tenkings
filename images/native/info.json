@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 55,
+    "height" : 42
+  }, {
+    "width" : 110,
+    "height" : 84
+  }, {
+    "width" : 219,
+    "height" : 168
+  }, {
+    "width" : 437,
+    "height" : 335
+  }, {
+    "width" : 874,
+    "height" : 670
+  }, {
+    "width" : 1748,
+    "height" : 1340
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1748,
+  "@id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1340
+}
