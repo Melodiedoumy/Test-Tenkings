@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1990,
+    "id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native1/canvas/",
+    "label" : {
+      "none" : [ "native1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 37
+            }, {
+              "width" : 125,
+              "height" : 74
+            }, {
+              "width" : 249,
+              "height" : 147
+            }, {
+              "width" : 498,
+              "height" : 294
+            }, {
+              "width" : 995,
+              "height" : 588
+            }, {
+              "width" : 1990,
+              "height" : 1175
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1990,
+            "@id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1175
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1990,
+          "id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1175
+        },
+        "target" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native1/canvas/"
+      } ]
+    } ],
+    "height" : 1175
+  }, {
     "width" : 1748,
     "id" : "https://Melodiedoumy.github.io/Test-Tenkings/images/native/canvas/",
     "label" : {
